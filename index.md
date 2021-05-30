@@ -1,6 +1,14 @@
-## Welcome to GitHub Pages
+## NFT Platz 이용 안내
 
-You can use the [editor on GitHub](https://github.com/createrlee/PlatzGuide/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+NFT Platz 를 이용하기 위해서는, 먼저 이더리움 지갑이 필요합니다.
+가장 쉽고 보편적인 방법은 메타마스크(Metamask)를 이용하는 것입니다.
+
+https://metamask.io
+
+크롬 익스텐션, iOS 앱, 안드로이드 앱 등 적절한 플랫폼으로 다운로드 받은 후, 안내에 따라 지갑을 생성하세요.
+생성된 지갑은 12개의 단어로 구성된 니모닉 코드(Mnemonic code)와 비밀번호가 부여됩니다.
+
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
